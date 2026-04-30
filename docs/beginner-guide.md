@@ -11,5 +11,5 @@ We will start by first setting up the basics for our plugin.
 
 Add a Folder inside ServerStorage and name it whatever you want your plugin to be named. Here, we use `MyPlugin`
 <p align="left">
-<img src="assets/naming.png" alt="Folder named MyPlugin">
+<img src="../assets/naming.png" width = 60% alt = "Naming the folder">
 </p>
