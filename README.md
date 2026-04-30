@@ -6,11 +6,13 @@ This tutorial includes **step-by-step guides**, **code examples**, and **example
 
 ## Don't know what a plugin is?
 
-Learn [what plugins are](https://www.github.com/flameydev/first-plugins/blob/main/docs/what-are-plugins.md)
+Learn [what plugins are](docs/what-are-plugins.md)
 
 ## Where to go next?
 
 Check out the [beginner guide](docs/beginner-guide.md)
+
+Look at [plugin examples](example-plugins/navigate.md)
 
 ---
 
