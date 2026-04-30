@@ -11,5 +11,3 @@ Learn [what plugins are](https://www.github.com/flameydev/first-plugins/blob/mai
 ## Where to go next?
 
 Check out the [beginner guide](https://www.github.com/flameydev/first-plugins/blob/main/docs/beginner-guide.md)
-
-
