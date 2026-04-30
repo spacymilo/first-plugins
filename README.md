@@ -10,7 +10,7 @@ Learn [what plugins are](https://www.github.com/flameydev/first-plugins/blob/mai
 
 ## Where to go next?
 
-Check out the [beginner guide](docs/beginner-guide)
+Check out the [beginner guide](docs/beginner-guide.md)
 
 ---
 
