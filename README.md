@@ -1,5 +1,5 @@
 <p align="center">
-First Plugins
+# First Plugins
 </p>
 
 > [!TIP]
