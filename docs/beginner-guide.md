@@ -88,3 +88,12 @@ Everytime we update the Plugin, we can simply save the plugin again to view the 
 ---
 
 ## 2. Usage of Selection and ChangeHistoryService:-
+
+There are 2 basic services used by almost all Plugins, being **SelectionService** (or just Selection), and **ChangeHistoryService**.
+
+
+### 2.1 Selection
+Selection, like all other services, can be required by using:
+```luau
+game:GetService("Selection")
+```
