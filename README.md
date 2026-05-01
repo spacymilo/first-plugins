@@ -1,5 +1,5 @@
 <p align="center">
-<font size=20>
+<font size=100>
 First Plugins
 </font>
 </p>
